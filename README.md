@@ -25,7 +25,8 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/bhavani-dasari-906134140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavani-dasari-906134140/" height="30" width="40" /></a>
+<p align="left" id="badges">
+<a href="https://www.linkedin.com/in/bhavani-dasari-906134140/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ <a href="bhavanidasari215@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
 
