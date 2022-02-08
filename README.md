@@ -6,11 +6,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhavani-dasari-906134140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavani-dasari-906134140/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left" font-weight="bold">Languages and Tools:</h3>
 <p width="500" border="1px solid red"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60" padding="20" margin="30"/> </a> 
@@ -29,17 +24,8 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-dasari&theme=blue-green "/></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
 
-<!--
-**BHAVANI-DASARI/BHAVANI-DASARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhavani-dasari-906134140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavani-dasari-906134140/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
