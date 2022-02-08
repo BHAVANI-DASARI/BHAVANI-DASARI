@@ -5,26 +5,24 @@
 
 - 🔭 I’m currently working on React **Todos**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Web development**
 
 <h2 align="left" font-weight="bold">:hammer_and_wrench:Languages and Tools:</h2>
-<p width="500" border="1px solid red"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60" padding="20" margin="30"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" padding:"20"  margin="30"/>
-  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" padding:"20"  margin="30"/> </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"  padding:"20"  margin="30"/> </a> <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" padding:"20"  margin="30"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" padding:"20"  margin="30"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"  padding:"20"  margin="30"/> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"  padding:"20"  margin="30"/> </a> </p>
-  <h2 align="left" font-weight="bold">Git Stats:</h2>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-dasari&theme=dark "/></p> -->
+<div align="center" margin="30" >
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" margin="30"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;</a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;</a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;</a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;</a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;</a><br/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Mongodb" alt="Mongodb" width="60" height="60"/>&nbsp;</a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" margin="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="60" height="60"  padding:"20"  margin="30"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;</a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60"/></a>
+</div>
+<h2>:fire: Git Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&theme=dark&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
