@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Bhavani Dasari</h1>
+<h2>:woman_technologist:About Me</h2>
 <h3 align="center">I am a Aspiring Full Stack web developer pursuing web development course in MERN at MASAI SCHOOL.</h3>
 
 - 🔭 I’m currently working on React **Todos**
 
 - 🌱 I’m currently learning **React.js**
 
-<h3 align="left" font-weight="bold">Languages and Tools:</h3>
+<h2 align="left" font-weight="bold">:hammer_and_wrench:Languages and Tools:</h2>
 <p width="500" border="1px solid red"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60" padding="20" margin="30"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" padding:"20"  margin="30"/>
@@ -21,10 +22,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"  padding:"20"  margin="30"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"  padding:"20"  margin="30"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"  padding:"20"  margin="30"/> </a> </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-dasari&theme=blue-green "/></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
+  <h2 align="left" font-weight="bold">Git Stats:</h2>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-dasari&theme=dark "/></p> -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&theme=dark&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/bhavani-dasari-906134140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavani-dasari-906134140/" height="30" width="40" /></a>
 </p>
