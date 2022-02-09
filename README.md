@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhavani Dasari</h1>
 <h2>:woman_technologist:About Me</h2>
-<h3 align="center">I am a Aspiring Full Stack web developer pursuing web development course in MERN at MASAI SCHOOL.</h3>
+<h3 align="center">I am a Aspiring Full Stack web developer pursuing web development course in MERN at MASAI SCHOOL.Along with web development, I passionated towards solving DSA problems in Leetcode and Hacker Rank.</h3>
 
 - 🔭 I’m currently working on **React Todos**.
 
