@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhavani Dasari</h1>
 <h2>:woman_technologist:About Me</h2>
-<h3 align="center">I am a Aspiring Full Stack web developer pursuing web development course in MERN at MASAI SCHOOL.Along with web development, I passionated towards solving DSA problems in Leetcode and Hacker Rank.</h3>
+<h3>I am a Aspiring Full Stack web developer pursuing web development course in MERN at MASAI SCHOOL.Along with web development, I passionated towards solving DSA problems.In my free time, I solve Problems in Leetcode and Hacker Rank.</h3>
 
 - 🔭 I’m currently working on **React Todos**.
 
@@ -23,7 +23,7 @@
 <h2>:fire: Git Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&theme=dark&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
 
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BHAVANI-DASARI&date_format=M%20j%5B%2C%20Y%5D" alt="bhavani-dasari" /></p>
 <h2 align="left">Connect with me:</h2>
 <p align="left" id="badges">
 <a href="https://www.linkedin.com/in/bhavani-dasari-906134140/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
