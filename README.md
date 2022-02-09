@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-<h2 align="left" font-weight="bold">:hammer_and_wrench:Languages and Tools:</h2>
+<h2 align="left" font-weight="bold">:hammer_and_wrench:Tech Stack</h2>
 <div align="center" margin="30" >
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" margin="30"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"margin="30"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;
