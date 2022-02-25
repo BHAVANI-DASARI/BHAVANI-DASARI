@@ -22,6 +22,8 @@
 </div>
 <h2>:fire: Git Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavani-dasari&theme=dark&show_icons=true&locale=en" alt="bhavani-dasari" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-dasari&layout=compact&theme=vision-friendly-dark" alt="bhavani-dasari" /></p> -->
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BHAVANI-DASARI&date_format=M%20j%5B%2C%20Y%5D" alt="bhavani-dasari" /></p>
 <h2 align="left">Connect with me:</h2>
